@@ -36,22 +36,29 @@ The project is expected to include:
 
 ## Planned Dashboard Features
 
+- Executive overview
 - Inventory overview
 - Production overview
 - KPI summary cards
 - Product and SKU filters
-- Stock status visualization
-- ABC classification results
+- Inventory status visualization
+- ABC and XYZ classification views
 - Slow-moving inventory analysis
+- Stockout-risk indicators
+- Demand trends
 - Production trends
-- Management-level summary views
-
+- Capacity indicators
+- Exception and alert panels
+- AI-generated management summaries
+- Recommended actions and priority items
+  
 ## Tools
 
 - Microsoft Excel
 - Power Query
 - PivotTables
 - Excel formulas
+- PowerBI
 - Python
 - Pandas
 
@@ -74,9 +81,15 @@ Additional tools may be added as the project develops.
 6. Validate results with operational data
 7. Improve the dashboard based on findings
 
-## Expected Outcome
+## The final outcome will be an AI-assisted inventory and production planning decision support system that helps manufacturing managers:
 
-The final outcome will be a structured and practical dashboard that helps decision-makers monitor inventory, understand production performance and identify improvement opportunities.
+- Monitor inventory and production performance
+- Detect operational risks earlier
+- Identify improvement opportunities
+- Prioritize critical items
+- Improve planning decisions
+- Reduce manual reporting effort
+- Make faster and more structured decisions
 
 ## Note
 
