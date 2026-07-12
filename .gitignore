@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment variables and credentials
+.env
+*.key
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Private and raw company data
+data/raw/
+data/private/
+credentials/
