@@ -1,4 +1,4 @@
-# operations_management_dashboard
+AI-Assisted Inventory and Production Planning Decision Support System for a Manufacturing SME
 A work-in-progress production and inventory dashboard project for manufacturing data analysis and decision support.
 # Production Dashboard Project
 
